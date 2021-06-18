@@ -8,10 +8,10 @@ A **Real-Time** chat application to communicate among your friends and families.
 
 ## Preview 
 ### Chat Box ui
-![Chat]()
+![ichat](https://user-images.githubusercontent.com/56082750/122557280-359c4580-d05a-11eb-8cac-9a47f8b1a7f0.png)
 
 ### Auto Scroll down on spamming of messages
-![Scroll]()
+![Scroll](https://user-images.githubusercontent.com/56082750/122557380-55cc0480-d05a-11eb-9573-2fa4205d61c0.png)
 
 ## Local Setup & Available Scripts
 ### `npm install`
