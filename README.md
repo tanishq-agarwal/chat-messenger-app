@@ -4,7 +4,7 @@ A **Real-Time** chat application to communicate among your friends and families.
 1. **Sockets.io** - Used to implement the real-time functionalities by sending triggering and monitoring events on a topic-subscription based model.
 2. **Node.js** - Node server which will handle socket io connections
 
-## **Live Demo** - 
+## **Live Demo** - [![Netlify Status](https://api.netlify.com/api/v1/badges/d28d7b09-684a-4dd4-b341-0219ed650caa/deploy-status)](https://app.netlify.com/sites/realtime-ichat/deploys)
 
 ## Preview 
 ### Chat Box ui
